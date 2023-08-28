@@ -27,6 +27,7 @@
     "website": "nancys-brain-talks"
   },
   "course_title": "Nancy's Brain Talks",
+  "hide_download": true,
   "course_description": "Professor Nancy Kanwisher uses a brain imaging method called fMRI to study the human brain. Her website, *Nancy's Brain Talks,* is a collection of short videos that explore the different scientific techniques used to study the human mind and brain. You do not need any background in the field to understand the talks.\n\nTopics include:\n\n- What Kinds of Minds and Brains Do We Have?\n- How Can You Study the Human Mind and Brain?\n- Face Perception\n- fMRI Imaging of the Human Brain at Work\n\nThe site also includes lecture videos from Prof. Kanwisher's undergraduate MIT course *9.13 The Human Brain*. You can find [a complete version of this course here on MIT OpenCourseWare](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/).",
   "department_numbers": [
     "9"
