@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/nancys-brain-talks/mitres_9_004f22-th.jpg
+file: /ol-ocw-studio-app/courses/res-9-004-nancys-brain-talks-fall-2022/mitres_9_004f22-th.jpg
 file_size: 75336
 file_type: image/jpeg
 image_metadata:
