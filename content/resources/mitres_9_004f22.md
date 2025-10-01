@@ -9,8 +9,8 @@ image_metadata:
   caption: 'Prof. Kanwisher giving her talk "A Neural Portrait of the Human Mind"
     delivered at TED2014 in Vancouver, Canada, details how brain imaging research
     has mapped mental functions in the human brain. (Photo by James Duncan Davidson.
-    License: CC BY-NC. Source: [TED Conference](https://www.flickr.com/photos/tedconference/13269833385/)
-    on Flickr.)'
+    License: CC BY-NC. Source: {{% resource_link "1c33422f-076e-4865-a260-11d245697bff"
+    "TED Conference" %}} on Flickr.)'
   credit: 'Photo: James Duncan Davidson. CC BY-NC.'
   image-alt: Photo of Nancy Kanwisher  standing on the dark TED stage in the middle
     of giving her talk, wearing glasses and a bright red blazer
